@@ -1,0 +1,14 @@
+/* Classes pode ser usadas em mais de um elemento, enquanto o ID so pode ser usado em um elemento */
+
+
+#paragrafo {
+    color: rgb(9, 9, 136);
+}
+
+#title{
+    color: chartreuse;
+}
+
+.texto_rosa{
+    color: deeppink;
+}
