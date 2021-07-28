@@ -14,3 +14,7 @@ console.log(resultado1)
 console.log(resultado2)
 //console.log(media(8, 3))
 
+
+
+
+

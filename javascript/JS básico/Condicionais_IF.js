@@ -1,4 +1,4 @@
-var idade = 16
+var idade = 26
 
 if (idade >= 35) {
     console.log('Pode')
