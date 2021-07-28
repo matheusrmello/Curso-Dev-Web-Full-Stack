@@ -13,3 +13,4 @@ var resultado2 = media(6,4)
 console.log(resultado1)
 console.log(resultado2)
 //console.log(media(8, 3))
+
