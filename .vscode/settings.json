@@ -1,3 +1,4 @@
 {
-    "openhab.useRestApi": false
+    "openhab.useRestApi": false,
+    "eggHelper.serverPort": 35684
 }
